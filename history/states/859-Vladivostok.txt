@@ -30,7 +30,7 @@ state={
 			957 30
 		}
 
-		1936.1.4 = {
+		1938.1.4 = {
 			owner = SOV
 			controller = SOV
 			remove_core_of = SVN

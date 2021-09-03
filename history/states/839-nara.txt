@@ -11,7 +11,7 @@ state={
 		owner = MJP
 		add_core_of = MJP
 		
-		1936.1.4 = {
+		1938.1.4 = {
 			owner = JAP
 			controller = JAP
 			remove_core_of = MJP
